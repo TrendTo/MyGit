@@ -1,0 +1,18 @@
+#Inicializar un repositorio
+git init
+
+#Configurar el usuario y email
+git
+
+#Agrega todos los cambios al Stage Area
+git add .
+
+#Dar un commit al repositorio
+git commit -m "mensaje"
+
+#Muestra un diff con la informacion de los cambios realizados en los 2 ultimos commits
+git show nombre_archivo 
+
+#Si deseas comparar version especificas necesitas los ids de los commits
+git diff commitA commitB
+
